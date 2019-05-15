@@ -19,7 +19,7 @@ class StopWatchActivity : AppCompatActivity() {
         btn_stop.visibility = INVISIBLE
 
         //animation객체 만들기
-       var rounding_alone=AnimationUtils.loadAnimation(this,R.anim.rounding_alone)
+        var rounding_alone=AnimationUtils.loadAnimation(this,R.anim.rounding_alone)
 
         //start버튼 클릭시 에니메이션 시작
         btn_start.onClick {
