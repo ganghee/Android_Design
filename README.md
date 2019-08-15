@@ -2,7 +2,7 @@
 화면을 다양하게 보여주는 UI
 
 ![AnchorAnimation](https://user-images.githubusercontent.com/35513039/63096082-e2fa2a00-bfa7-11e9-845d-691df0e3107c.gif)
-<img src="https://user-images.githubusercontent.com/35513039/63096082-e2fa2a00-bfa7-11e9-845d-691df0e3107c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/35513039/63096082-e2fa2a00-bfa7-11e9-845d-691df0e3107c.gif" width="20%">
 
 ![AutoDigitUp](https://user-images.githubusercontent.com/35513039/63096143-10df6e80-bfa8-11e9-91a0-0197d7d395ea.gif)
 
