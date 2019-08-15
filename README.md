@@ -10,20 +10,3 @@
 <img src="https://user-images.githubusercontent.com/35513039/63096377-bdb9eb80-bfa8-11e9-9a2f-784d5bbd1b42.gif" width="40%">
 <img src="https://user-images.githubusercontent.com/35513039/63096394-c7dbea00-bfa8-11e9-8cae-fced4dbea048.gif" width="40%">
 
-
-
-
-![AutoDigitUp]()
-
-![CardViewSlide]()
-
-![DashBoard]()
-
-![ExpandableListView]()
-
-![HorizontalRecyclerView]()
-
-![SplashAnimation]()
-
-![SwipeButton]()
-
